@@ -96,5 +96,5 @@ Designed and iterated the schematic for the I-Board PCB in KiCad.
 mgps-summer-research/
 ├── README.md            This overview
 ├── assets/              Figures referenced above (add image files here)
-└── docs/                Optional: local copies of the research write-ups
+└── docs/                Copies of the research write-ups
 ```
