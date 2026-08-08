@@ -32,8 +32,8 @@ This document summarizes those contributions and links to the detailed research 
 
 Reviewed the S-Board sensor PCBs and handled board assembly and debugging. This included hand-soldering and rework of surface-mount components, during which I became proficient with a hot-air rework station and soldering iron.
 
-![S-Board soldering](assets/sboard-soldering-1.jpg)
-![S-Board debugging](assets/sboard-soldering-2.jpg)
+![S-Board soldering](assets/sboard-soldering-1.jpeg)
+![S-Board debugging](assets/sboard-soldering-2.jpeg)
 
 ## Wireless microcontroller selection
 
