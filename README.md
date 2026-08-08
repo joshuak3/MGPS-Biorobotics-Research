@@ -4,11 +4,10 @@
 
 |              |                                                    |
 | ------------ | -------------------------------------------------- |
-| Researcher   | Josh [Last Name]                                   |
+| Researcher   | Joshua Kim                                         |
 | Lab          | Biorobotics Lab, Carnegie Mellon University        |
-| Advisor      | Prof. Lu Li                                         |
+| Advisor      | Lu Li                                              |
 | Program      | SURA (Summer Undergraduate Research)               |
-| Industry Partner | ESAB                                           |
 | Term         | Summer 2026                                        |
 
 ## Overview
